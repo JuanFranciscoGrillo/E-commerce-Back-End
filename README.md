@@ -13,7 +13,10 @@ A dynamic backend system designed to power e-commerce platforms, with a comprehe
 
 ## Installation
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine:
+
+  a. https://github.com/JuanFranciscoGrillo/E-commerce-Back-End.git
+
 2. Run `npm install` to install all dependencies.
 3. Set up your database and make necessary adjustments in `config/connection.js`.
 4. Run `npm run seed` to seed data to your database.
