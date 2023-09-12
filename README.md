@@ -78,3 +78,6 @@ For example, for **Categories**:
    - Send the request.
 
 Continue in a similar fashion for the `Products` and `Tags` endpoints.
+
+## Demo
+[![Video Demo](https://img.youtube.com/vi/TSuwnZn3zww/0.jpg)](https://www.youtube.com/watch?v=TSuwnZn3zww)
